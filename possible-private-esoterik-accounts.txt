@@ -1,6 +1,7 @@
 [*] Checking username stormy24k on:
 [+] TikTok: https://www.tiktok.com/@stormy24k
 [+] Reddit: https://www.reddit.com/user/stormy24k
+[+] youtube: https://www.youtube.com/channel/UCqS2iu6487Vx-O4oBeGoSNw/videos
  ┣╸reddit_id: t5_103doz
  ┣╸reddit_username: stormy24K
  ┣╸fullname: stormy24K
