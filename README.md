@@ -1,4 +1,4 @@
-# skeet.cc
+# skeet.cc  **sub to my youtube:https://www.youtube.com/channel/UCWZ3Z-lM9XGRFFKT6gt1Q2g**
 gamesense.pub dumped; ThE rEaL XxTrEmE XxPeRtZ EdiTioN by #h4xr0x
 
 Write-Up:
