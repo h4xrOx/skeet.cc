@@ -23,3 +23,4 @@ Apparently; some things I leaked got to neverlose.cc; and they went as far to sa
 **spencer hall, esoterik in his own words:**
 ![image](https://user-images.githubusercontent.com/65768277/123023124-7bc81080-d39c-11eb-94de-c998196535d9.png)
 
+![image](https://user-images.githubusercontent.com/65768277/123025159-d020bf80-d39f-11eb-977e-3c69d4c90bc1.png)
