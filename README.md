@@ -19,6 +19,8 @@ Sites/Domains Owned: https://wish.mv/, https://wish.tf/
 Gamesense: wish | UID: 415 | Title: Moderator (Gamesense support)
 Aliases: Wish, Wsh, WishSense, Skid, -Skid, -Wish, -Wsh
 
+![image](https://user-images.githubusercontent.com/65768277/123981733-18377780-d988-11eb-9f7f-2fa422423cc5.png)
+
 Skids will be Skids:
 Apparently; some things I leaked got to neverlose.cc; and they went as far to say they cracked skeet ( they didnt ) but this must of enraged Spencer Hall, "esoterik", because his response was to make a fake crack claim himself, apparently "cracking" neverlose.cc ( he didnt ) but he did make this private repo claiming he did: https://github.com/esotk/NEVERLOSE/issues Each might release some pasted mirror to "flex"; but let it be known that Sigmas are rare, h4xr0x is 1337 because he owns both. #gg h4xr0x out*
 **spencer hall, esoterik in his own words:**
